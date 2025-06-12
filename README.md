@@ -45,12 +45,13 @@ Example row:
 ```csv
 Movie Name,Genre,Language,Theme
 3 Idiots,Comedy,Hindi,Friendship
+```
 
 ---
 
 ## 📂 Project Structure
-bash
-Copy code
+
+```bash
 movie_recommender/
 │
 ├── app.py                   # Main Streamlit frontend
@@ -62,5 +63,9 @@ movie_recommender/
 │   └── background.jpg       # Background image
 ├── requirements.txt         # Python dependencies
 └── README.md                # Project documentation
+```
+
+---
+
 
 
