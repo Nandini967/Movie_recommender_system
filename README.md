@@ -6,10 +6,8 @@ Welcome to the **Movie Recommender System** – a web application that helps use
 
 ## 🌐 Demo
 
-> 🖼️ *Coming soon*  
-(*Add a screenshot or GIF here to show off the interface and recommendations!*)
+![image](https://github.com/user-attachments/assets/c01d3fdc-68ef-4eea-b680-e3f9e7397890)
 
----
 
 ## 🧠 How It Works
 
