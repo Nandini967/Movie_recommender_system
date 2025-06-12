@@ -46,4 +46,21 @@ Example row:
 Movie Name,Genre,Language,Theme
 3 Idiots,Comedy,Hindi,Friendship
 
+---
+
+## 📂 Project Structure
+bash
+Copy code
+movie_recommender/
+│
+├── app.py                   # Main Streamlit frontend
+├── recommender.py           # ML logic for filtering and fallback recommendations
+├── utils.py                 # Formatting utility
+├── data/
+│   └── movies.csv           # Movie dataset
+├── static/
+│   └── background.jpg       # Background image
+├── requirements.txt         # Python dependencies
+└── README.md                # Project documentation
+
 
