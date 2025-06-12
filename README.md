@@ -139,14 +139,6 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ---
 
-## 📬 Contact
-
-👤 **Your Name**  
-🔗 GitHub: [@your-username](https://github.com/your-username)  
-📧 Email: your.email@example.com
-
----
-
 ## 🌟 Show Your Support
 
 If you found this helpful, give it a ⭐ on GitHub and share it with friends!
